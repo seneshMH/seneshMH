@@ -6,8 +6,11 @@
 🌱 I'm currently learning game development using Unreal Engine.
 </p>
 
-<p align="center">
-<img  width="47%" height="155" src="https://github-readme-stats.vercel.app/api?username=seneshMH&show_icons=true&theme=dracula">
-<img  width="47%" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneshMH&layout=compact&theme=dracula">
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
